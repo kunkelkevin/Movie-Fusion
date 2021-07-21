@@ -15,7 +15,7 @@ The actors page will give more detailed information about the actor or actress i
 
 The favorites page will pull all your saved favorite titles from local storage and display their posters and titles with the option to remove them from the favorites list.  If clicked on, you will go to that movie or TV shows information page.
 
-The deployed website can be found at:  [https://Shiromajh.github.io/Movie-Fusion/](https://Shiromajh.github.io/Movie-Fusion/)
+The deployed website can be found at:  [https://kunkelkevin.github.io/Movie-Fusion/](https://kunkelkevin.github.io/Movie-Fusion/)
 
 Screenshot showing main/search page as viewed on a large desktop:
 ![Main page screenshot](/assests/img/main-ss.png "Main Page Screenshot")
